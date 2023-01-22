@@ -25,7 +25,7 @@ Before beginning the process, it's assumed that you have
 ### Setup
 For convenience, I've created a Nix expression that includes all dependencies. Enter the nix-shell:
 
-    nix-shell https://github.com/sgillespie/nixos-yubikey-luks/archive/master.tar.gz
+    nix develop github:chfanghr/nixos-yubikey-luks
 
 ## Setup - Manual
 If you don't want to use the nix expression, we can set up the same environment manually.
