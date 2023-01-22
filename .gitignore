@@ -1,0 +1,14 @@
+# Nix build results
+result
+result-*
+
+# Editors
+.vscode/
+.idea
+tags
+TAGS
+.nvimrc
+
+# direnv files
+.envrc
+.direnv/
